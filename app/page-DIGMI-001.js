@@ -1,6 +1,6 @@
 'use client';
 
-import DigmiOrderForm from '@/components/DigmiOrderForm';
+import DigmiOrderForm from '../components/DigmiOrderForm';
 
 export default function Home() {
   return (

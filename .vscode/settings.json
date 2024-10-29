@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/d535bb1a-ec67-4047-9986-45a4bda4afe9/resourceGroups/Digmi_Apps/providers/Microsoft.Web/sites/OrderFormSales",
+    "appService.deploySubpath": "."
+}

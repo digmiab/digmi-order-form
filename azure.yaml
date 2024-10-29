@@ -1,0 +1,7 @@
+# azure.yaml
+name: digmi-order-form
+services:
+  - name: web
+    project: .
+    language: node
+    host: appservice
